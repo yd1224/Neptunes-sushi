@@ -1,0 +1,43 @@
+<svg width="42" height="36" viewBox="0 0 42 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_17_194)">
+<path d="M2 7C2 6.44772 2.44772 6 3 6H13C13.5523 6 14 6.44772 14 7V17C14 17.5523 13.5523 18 13 18H3C2.44772 18 2 17.5523 2 17V7Z" fill="#002034"/>
+<rect x="4" y="8" width="8" height="8" rx="1" fill="#D9D9D9"/>
+<circle cx="8" cy="12" r="2" fill="#FF8A00"/>
+</g>
+<g clip-path="url(#clip1_17_194)">
+<g clip-path="url(#clip2_17_194)">
+<path d="M15 7C15 6.44772 15.4477 6 16 6H26C26.5523 6 27 6.44772 27 7V17C27 17.5523 26.5523 18 26 18H16C15.4477 18 15 17.5523 15 17V7Z" fill="#002034"/>
+<rect x="17" y="8" width="8" height="8" rx="1" fill="#D9D9D9"/>
+<path d="M23 12C23 13.1046 22.1046 14 21 14C19.8954 14 19 13.1046 19 12C19 10.8954 19.8954 10 21 10C22.1046 10 23 10.8954 23 12Z" fill="#FF8A00"/>
+</g>
+</g>
+<g clip-path="url(#clip3_17_194)">
+<path d="M15 20C15 19.4477 15.4477 19 16 19H26C26.5523 19 27 19.4477 27 20V30C27 30.5523 26.5523 31 26 31H16C15.4477 31 15 30.5523 15 30V20Z" fill="#002034"/>
+<path d="M15 20C15 19.4477 15.4477 19 16 19H26C26.5523 19 27 19.4477 27 20V30C27 30.5523 26.5523 31 26 31H16C15.4477 31 15 30.5523 15 30V20Z" fill="#002034"/>
+<rect x="17" y="21" width="8" height="8" rx="1" fill="#D9D9D9"/>
+<path d="M23 25C23 26.1046 22.1046 27 21 27C19.8954 27 19 26.1046 19 25C19 23.8954 19.8954 23 21 23C22.1046 23 23 23.8954 23 25Z" fill="#FF8A00"/>
+</g>
+<g clip-path="url(#clip4_17_194)">
+<path d="M28 7C28 6.44772 28.4477 6 29 6H39C39.5523 6 40 6.44772 40 7V17C40 17.5523 39.5523 18 39 18H29C28.4477 18 28 17.5523 28 17V7Z" fill="#002034"/>
+<path d="M28 7C28 6.44772 28.4477 6 29 6H39C39.5523 6 40 6.44772 40 7V17C40 17.5523 39.5523 18 39 18H29C28.4477 18 28 17.5523 28 17V7Z" fill="#002034"/>
+<rect x="30" y="8" width="8" height="8" rx="1" fill="#D9D9D9"/>
+<path d="M36 12C36 13.1046 35.1046 14 34 14C32.8954 14 32 13.1046 32 12C32 10.8954 32.8954 10 34 10C35.1046 10 36 10.8954 36 12Z" fill="#FF8A00"/>
+</g>
+<defs>
+<clipPath id="clip0_17_194">
+<rect width="12" height="12" fill="white" transform="translate(2 6)"/>
+</clipPath>
+<clipPath id="clip1_17_194">
+<rect width="12" height="12" fill="white" transform="translate(15 6)"/>
+</clipPath>
+<clipPath id="clip2_17_194">
+<rect width="12" height="12" fill="white" transform="translate(15 6)"/>
+</clipPath>
+<clipPath id="clip3_17_194">
+<rect width="12" height="12" fill="white" transform="translate(15 19)"/>
+</clipPath>
+<clipPath id="clip4_17_194">
+<rect width="12" height="12" fill="white" transform="translate(28 6)"/>
+</clipPath>
+</defs>
+</svg>
